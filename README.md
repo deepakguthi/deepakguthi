@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋
 I’m a passionate Full Stack JavaScript Developer with hands-on experience building scalable web applications using React.js, NestJS, TypeScript, and MySQL. I enjoy turning complex problems into clean, efficient, and user-friendly solutions.<br><br>In my current role, I work across both frontend and backend, developing modern UI interfaces with React and Ant Design, while building robust APIs using NestJS. I also have working knowledge of Next.js and AWS, which helps me understand deployment and production-level application flow.<br><br>I’m always eager to learn new technologies, improve code quality, and build products that make real impact.
 
 
